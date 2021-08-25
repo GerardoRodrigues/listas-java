@@ -64,6 +64,8 @@ public class ProgramFuncionario {
 			System.out.println(x.toString());
 		}
 		
+		System.out.println("FIM !");
+		
 		sc.close();
 		
 	}
